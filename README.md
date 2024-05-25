@@ -1,2 +1,2 @@
 # coursera-webdev
-JHU web dev
+John Hopkins Web Development Course
